@@ -1,0 +1,119 @@
+.mainpage {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 810px;
+  /* UI Properties */
+  background: #FDE3D9 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.firsth4{
+  top: 359px;
+left: 60px;
+width: 571px;
+height: 162px;
+/* UI Properties */
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+letter-spacing: 0px;
+color: #3E3E3E;
+opacity: 1;
+}
+
+.myimg{
+  top: 0px;
+left: 720px;
+width: 720px;
+height: 810px;
+/* UI Properties */
+background: transparent url('./Group\ 2.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+float: right;
+
+}
+
+.catdog{
+  left: 41px;
+width: 194px;
+height: 62px;
+background:  0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.parah4{
+  top: 359px;
+left: 60px;
+width: 571px;
+height: 162px;
+/* UI Properties */
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+letter-spacing: 0px;
+color: #3E3E3E;
+opacity: 1;
+}
+
+.parap
+{
+  top: 542px;
+left: 60px;
+width: 440px;
+height: 108px;
+/* UI Properties */
+letter-spacing: var(--unnamed-character-spacing--0-11);
+text-align: left;
+letter-spacing: -0.11px;
+color: #6D6D6D;
+opacity: 1;
+}
+
+.second-div{
+  top: 359px;
+  left: 60px;
+  width: 571px;
+  height: 414px;
+  /* UI Properties */
+  opacity: 1;
+}
+
+.myimg-p{
+  top: 544px;
+left: 830px;
+width: 220px;
+height: 81px;
+letter-spacing: var(--unnamed-character-spacing--0-11);
+text-align: left;
+letter-spacing: -0.11px;
+color: #FFE8DF;
+opacity: 1;
+}
+
+.i1{
+  top: 706px;
+left: 60px;
+width: 160px;
+height: 53px;
+/* UI Properties */
+background: transparent url('./AppStoreBadge.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.i2{
+  top: 693px;
+left: 232px;
+width: 207px;
+height: 80px;
+/* UI Properties */
+background: transparent url('./google-play-badge.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.i{
+  top: 693px;
+left: 60px;
+width: 379px;
+height: 80px;
+/* UI Properties */
+opacity: 1;
+}
